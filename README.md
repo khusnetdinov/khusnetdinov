@@ -1,4 +1,4 @@
-### Hi there 👋
+[![GitHub Streak](https://streak-stats.demolab.com?user=khusnetdinov&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=846)](https://git.io/streak-stats)
 
 <!--
 **khusnetdinov/khusnetdinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
