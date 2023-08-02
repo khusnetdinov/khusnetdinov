@@ -1,6 +1,11 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=khusnetdinov&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=846)](https://git.io/streak-stats)
+
+[![An image of @khusnetdinov's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/khusnetdinov)](https://holopin.io/@khusnetdinov)
 
 <!--
+[![GitHub Streak](https://streak-stats.demolab.com?user=khusnetdinov&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=846)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khusnetdinov&&hide=css,html,perl)
+![khusnetdinov's github stats](https://github-readme-stats.vercel.app/api?username=khusnetdinov&show_icons=true&count_private=true&line_height=40)
+
 **khusnetdinov/khusnetdinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
